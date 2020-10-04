@@ -7,4 +7,4 @@ A python script would allow you to download all your favorite artist's video str
 - "merge" is allows you to concat all the video fragment into a single video file using ffmpeg
 
 Don't forget to follow me on twitter for more updates.
-Soon these console application will be turning this into a gui application coming soon.
+Soon, these console application will be turning this into a gui application coming soon.
