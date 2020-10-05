@@ -1,5 +1,5 @@
 # Picarto-Leecher
-A python script would allow you to download all your favorite artist's video streaming in picarto. Similar like twitch-leecher but running on console application.
+A python script would allow you to download all your favorite artist's video streaming in picarto. Similar like twitch-leecher but running on console application for Windows OS.
 
 # How to use?
 - There is two menu list in the application(merge and url)
