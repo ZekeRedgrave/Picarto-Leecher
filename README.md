@@ -1,5 +1,5 @@
 # Picarto-Leecher
-A python script would allow you to download all your favorite artist's video streaming in picarto. Similar like twitch-leecher from Windows OS.
+A python desktop app allows you to download all your favorite artist's video streaming in picarto. Similar like twitch-leecher from Windows OS. You can run this app in cross-platform using python for now.
 
 # How to use?
 - Download Python 3
@@ -7,7 +7,5 @@ A python script would allow you to download all your favorite artist's video str
 - Download the files except picarto(retired).py
 - Open Terminal in Linux OS or CMD in Windows OS
 - Run by following command "python3 Main.py" or "python Main.py"
-
-
 
 #On-going New Adding Feature will be Available Soon as Possible. Any Complain or Suggest of the Project? Please sending me a message on pull requests or issues.
